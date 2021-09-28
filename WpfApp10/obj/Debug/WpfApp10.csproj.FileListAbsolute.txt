@@ -1,0 +1,55 @@
+D:\AAAAa\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe.config
+D:\AAAAa\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe
+D:\AAAAa\WpfApp10\WpfApp10\bin\Debug\WpfApp10.pdb
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csprojAssemblyReference.cache
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\MainWindow.baml
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\MainWindow.g.cs
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\App.g.cs
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\WpfApp10.g.resources
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.cache
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.CoreCompileInputs.cache
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\WpfApp10.exe
+D:\AAAAa\WpfApp10\WpfApp10\obj\Debug\WpfApp10.pdb
+D:\AAAAa\Курсовая полусфера\WpfApp10\bin\Debug\WpfApp10.exe.config
+D:\AAAAa\Курсовая полусфера\WpfApp10\bin\Debug\WpfApp10.exe
+D:\AAAAa\Курсовая полусфера\WpfApp10\bin\Debug\WpfApp10.pdb
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.csprojAssemblyReference.cache
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\MainWindow.baml
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\MainWindow.g.cs
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\App.g.cs
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.g.resources
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.cache
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.csproj.CoreCompileInputs.cache
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.exe
+D:\AAAAa\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.pdb
+I:\Курсовая полусфера\WpfApp10\bin\Debug\WpfApp10.exe.config
+I:\Курсовая полусфера\WpfApp10\bin\Debug\WpfApp10.exe
+I:\Курсовая полусфера\WpfApp10\bin\Debug\WpfApp10.pdb
+I:\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.csprojResolveAssemblyReference.cache
+I:\Курсовая полусфера\WpfApp10\obj\Debug\MainWindow.baml
+I:\Курсовая полусфера\WpfApp10\obj\Debug\MainWindow.g.cs
+I:\Курсовая полусфера\WpfApp10\obj\Debug\App.g.cs
+I:\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+I:\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.g.resources
+I:\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+I:\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.Cache
+I:\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.exe
+I:\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.pdb
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\bin\Debug\WpfApp10.exe.config
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\bin\Debug\WpfApp10.exe
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\bin\Debug\WpfApp10.pdb
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.csprojAssemblyReference.cache
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\MainWindow.baml
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\MainWindow.g.cs
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\App.g.cs
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.g.resources
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.cache
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.csproj.CoreCompileInputs.cache
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.exe
+G:\ПАМЯТЬ ПРОШЛЫХ ЛЕТ\Курсовая полусфера\WpfApp10\obj\Debug\WpfApp10.pdb
